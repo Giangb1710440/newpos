@@ -47,7 +47,7 @@
 
                             <div class="row x_title">
                                 <div class="col-md-6">
-                                    <h3>Biểu đồ doanh thu </h3>
+                                    <h3>Biểu đồ </h3>
                                 </div>
                                 <div class="col-md-6">
                                     <div id="reportrange" class="pull-right" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc">
